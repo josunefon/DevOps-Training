@@ -10,6 +10,14 @@
 2. Learn to create CI/CD pipelines for your Infrastructure as Code (IaC) content using Azure DevOps Pipelines by working with different build and release methodologies for your multi-tier application infrastructure.
 3. Learn to integrate Azure DevOps with Azure Automation.
 ---
+# Prerequisites
+1. Github account. (Go to [github.com](https://github.com) to sign up)
+2. git command line tool installed. [Download here](https://git-scm.com/downloads)
+3. Azure subscription. (Go to [my.visualstudio.com](https://my.visualstudio.com), login, under the Azure Tool, click Activate, and continue)
+![Image](http://url/a.png) 
+4. Azure DevOps account. (Go to [my.visualstudio.com](https://my.visualstudio.com), login, under the Azure DevOps tool, click Get Started, continue)
+![Image](http://url/a.png)
+---
 # Understand how to work with Git and Azure together
 Understand how to work with Azure, Git repositories and also work with branches, pull requests, merge, commit etc.
 ---

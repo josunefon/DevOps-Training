@@ -14,9 +14,9 @@
 1. Github account. (Go to [github.com](https://github.com) to sign up)
 2. git command line tool installed. [Download here](https://git-scm.com/downloads)
 3. Azure subscription. (Go to [my.visualstudio.com](https://my.visualstudio.com), login, under the Azure Tool, click Activate, and continue)
-![Image](http://url/a.png) 
+![Image](img/activateAzurePrereq.PNG) 
 4. Azure DevOps account. (Go to [my.visualstudio.com](https://my.visualstudio.com), login, under the Azure DevOps tool, click Get Started, continue)
-![Image](http://url/a.png)
+![Image](./img/azDevopsPrereq.PNG)
 ---
 # Understand how to work with Git and Azure together
 Understand how to work with Azure, Git repositories and also work with branches, pull requests, merge, commit etc.

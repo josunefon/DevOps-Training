@@ -25,3 +25,8 @@ Understand how to work with Azure, Git repositories and also work with branches,
 Learn to create CI/CD pipelines for your Infrastructure as Code (IaC) content using Azure DevOps Pipelines by working with different build and release methodologies for your multi-tier application infrastructure.
 --
 # Learn to integrate Azure DevOps with Azure Automation
+## Prerequisites
+1. Create an Azure Automation Account
+A. To create an account, simply go to [portal.azure.com/](portal.azure.com/)
+B. Create a New Resource and search for the Automation resource ![Image](img\createAutomationAccount1.PNG) 
+C. Give it a friendly name. Ensure "Yes" is checked for the Create Azure Run As account prompt (img\createAutomationAccount2.PNG)

@@ -29,4 +29,4 @@ Learn to create CI/CD pipelines for your Infrastructure as Code (IaC) content us
 ###Create an Azure Automation Account
 1. To create an account, simply go to [portal.azure.com/](portal.azure.com/)
 2. Create a New Resource and search for the Automation resource ![Image](img/createAutomationAccount1.PNG) 
-3. Give it a friendly name. Ensure "Yes" is checked for the Create Azure Run As account prompt (img/createAutomationAccount2.PNG)
+3. Give it a friendly name. Ensure "Yes" is checked for the Create Azure Run As account prompt ![Image](img/createAutomationAccount2.PNG)
